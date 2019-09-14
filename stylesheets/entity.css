@@ -1,0 +1,46 @@
+#content
+{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    
+    align-items: center;
+}
+#user_picture
+{
+    width: 300px;
+    height:300px;
+    border-radius: 100%;
+    display: block;
+    
+    margin: 50px;
+    
+}
+
+h3 a
+{
+    color:  #5FBDCE;
+}
+
+#marks
+{
+    width: 1000px;
+    min-width: 960px;
+    margin:50px;
+    border-spacing: 5px;
+    
+}
+th,td
+{
+    text-align: center;
+    vertical-align: center;
+
+    border: 5px solid #5FBDCE;
+    padding: 10px;
+
+    color:  #5FBDCE;
+}
+th
+{
+    color:  #7E07A9;   
+}

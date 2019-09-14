@@ -1,0 +1,30 @@
+#entities
+{
+    width: 1000px;
+    min-width: 960px;
+    margin:50px;
+    border-spacing: 5px;
+   
+}
+th,td
+{
+    text-align: center;
+    vertical-align: center;
+
+
+    padding: 10px;
+
+    color:  #5FBDCE;
+}
+th
+{
+    color:  #7E07A9;   
+}
+th a
+{
+    color:  #5FBDCE;
+}
+a:hover
+{
+    color:  #7E07A9;
+}
